@@ -1,0 +1,3 @@
+h1. Freemarker module
+
+Render your template page using Freemarker. This is highly experimental at the moment.
