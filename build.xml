@@ -26,7 +26,7 @@
         <jar destfile="lib/play-freemarker.jar" basedir="tmp/classes">
             <manifest>
                 <section name="Play">
-                    <attribute name="Specification-Title" value="Netty module"/>
+                    <attribute name="Specification-Title" value="Freemarker module"/>
                 </section>
             </manifest>
         </jar>
